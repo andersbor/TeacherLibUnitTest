@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherLib", "TeacherLib\TeacherLib.csproj", "{8DC56901-E69F-4357-916F-E6CB153C2175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherLibTests", "TeacherLibTests\TeacherLibTests.csproj", "{8ED7FE82-C50B-405B-BF04-DB58B4D4AC77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC56901-E69F-4357-916F-E6CB153C2175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC56901-E69F-4357-916F-E6CB153C2175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC56901-E69F-4357-916F-E6CB153C2175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC56901-E69F-4357-916F-E6CB153C2175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED7FE82-C50B-405B-BF04-DB58B4D4AC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED7FE82-C50B-405B-BF04-DB58B4D4AC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED7FE82-C50B-405B-BF04-DB58B4D4AC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED7FE82-C50B-405B-BF04-DB58B4D4AC77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1BA3402-DD00-4844-B719-2D7F518DFAA0}
+	EndGlobalSection
+EndGlobal
