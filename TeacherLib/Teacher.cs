@@ -14,6 +14,8 @@ namespace TeacherLib
             Salary = salary;
         }
 
+        public string Adress { get; set; }
+
         public string Name
         {
             get => _name;
